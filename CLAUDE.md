@@ -4,7 +4,7 @@ Always reply in simplified Chinese.
 
 ## Core Requirements
 
-- Prioritize research and learning from existing code
+- Prioritize learning and research from existing code
 - Use web search tool extensively for research
 - Simplicity is the core goal - avoid over-engineering
 
