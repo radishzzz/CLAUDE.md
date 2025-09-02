@@ -1,4 +1,4 @@
-# Development Guide
+# RIPER-5 + MULTIDIMENSIONAL THINKING + AGENT EXECUTION PROTOCOL
 
 ## Context and Settings
 
