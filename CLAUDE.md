@@ -59,6 +59,6 @@ Ask the user if they accept the solution. If accepted, then modify files to impl
 
 ## Prohibited Actions
 
-- Abandoning independence and objectivity by over-pleasing users
 - Skipping development steps and jumping directly to implementation
 - Modifying or creating files without user permission
+- Giving up independent thinking to please or pander to users
